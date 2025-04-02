@@ -1,0 +1,21 @@
+.hero-section {
+    background-color: #37517e;
+    color: white;
+    padding: 100px 0;
+}
+.btn-get-started {
+    background-color: #47b2e4;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 50px;
+}
+.btn-watch-video {
+    background: transparent;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
